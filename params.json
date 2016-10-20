@@ -1,6 +1,6 @@
 {
   "name": "김호영 소개 페이지",
   "tagline": "",
-  "body": "# 김호영 세상\r\n## 부제목\r\n\r\n```\r\nputs \"hello world!\"\r\n```",
+  "body": "# 김호영 세상\r\n## 부제목\r\n\r\n```\r\nputs \"hello world!\"\r\nputs \"hi\"\r\n```\r\n\r\n수정 가능합니다.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
